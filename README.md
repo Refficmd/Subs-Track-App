@@ -4,7 +4,7 @@ A simple yet powerful subscription tracker built with flutter.
 
 ---
 
-## Deskripsi Apliaksi
+## Deskripsi Aplikasi
 
 Subsense adalah aplikasi Subscription Tracker berbasis Flutter yang membantu pengguna mengelola dan memantau langganan digital seperti Netflix, Spotify, dan layanan lainnya.
 
@@ -114,11 +114,13 @@ Tekan ikon 🗑️ untuk menghapus data.
    <img width="300" height="600" alt="Screenshot_1772160516" src="https://github.com/user-attachments/assets/a7c604a9-e19e-46ff-a34d-6d843ecff0ab" />
     </p>
 
----
+  ---
 
 Setelah pengguna menekan tombol **Hapus**, data subscription akan dihapus dari daftar.
 Total biaya bulanan dan proyeksi tahunan akan otomatis diperbarui sesuai dengan data yang tersisa. Perubahan ini terjadi secara langsung karena aplikasi menggunakan sistem perhitungan dinamis.
 
-<p align="center"
-  <img width="300" height="600" alt="Screenshot_1772162274" src="https://github.com/user-attachments/assets/de733f92-6d5f-4a44-adbc-e6a06b294459" />
-</p>
+  <p align="center"
+     <img width="300" height="600" alt="Screenshot_1772162274" src="https://github.com/user-attachments/assets/de733f92-6d5f-4a44-adbc-e6a06b294459" />
+  </p>
+
+  ---
